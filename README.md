@@ -1,3 +1,5 @@
+# Clean City Guilds DAO is built using Tribute DAO framework.
+
 [![codecov](https://codecov.io/gh/openlawteam/tribute-contracts/branch/master/graph/badge.svg?token=XZRL9RUYZE)](https://codecov.io/gh/openlawteam/tribute-contracts)
 
 ## Contents
